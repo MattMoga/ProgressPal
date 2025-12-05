@@ -16,7 +16,7 @@ The intention behind creating ProgressPal stems from my own struggles with procr
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Matt1092/ProgressPal.git
+   git clone https://github.com/MattMoga/ProgressPal.git
    cd ProgressPal
    ```
 2. **Create a virtual environment and activate it**:
